@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hizkyas
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... HTML/css
+- Im a A web Developer, with a Bachelor's degree In Information Technology.
+- Css/HTML/JavaScript/PHP/Python Programmer
 - 💞️ I’m looking to collaborate on ... web development
-- 📫 How to reach me ... 
+- 📫 hizkyastadele@gmail.com 
 
 <!---
 hizkyas/hizkyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
