@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hizkyas
-- Im a A web Developer, with a Bachelor's degree In Information Technology.
-- Css/HTML/JavaScript/React/python Programmer
-- 💞️ I’m looking to collaborate on ... web development
+- Im a A software engineer, with a Bachelor's degree In Information Technology.
+  -Flutter/React/python Programmer
 - 📫 hizkyastadele@gmail.com 
 
 <!---
