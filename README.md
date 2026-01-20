@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hizkyas
 - Im a A software engineer, with a Bachelor's degree In Information Technology.
-  -Flutter|React|python Programmer
+  -Flutter|React|python| Cyber Security
 - 📫 hizkyastadele@gmail.com 
 
 <!---
