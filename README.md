@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @hizkyas
-- Im a A software engineer, with a Bachelor's degree In Information Technology.
-  -Flutter|React|python| Cyber Security
-- 📫 hizkyastadele@gmail.com 
+Hizkyas Tadele 🧑‍💻
+Software Engineer & AI Developer
+🛡️ Cyber Attack Analyst @ Commercial Bank of Ethiopia
+🎓 IT Graduate | Arba Minch University
+🧠 10Academy • Forward Deployed Engineer (in training)
 
-<!---
-hizkyas/hizkyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 Building secure systems. 🤖 Engineering autonomous intelligence.
+
+📫 [https://www.linkedin.com/in/hizkyas-tadele-b689b6249/][https://x.com/hizkyastadele] [hizkyastadele@gmail.com]
